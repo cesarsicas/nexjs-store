@@ -1,0 +1,36 @@
+.product {
+    border: 1px solid #ededed;
+    border-radius: 1%;
+    padding: 16px;
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+
+
+.product .value{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.productlink{
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.login-form-container{
+    margin-top: 300px;
+    max-width: 800px;
+    border: 1px solid #ededed;
+    padding: 32px;
+
+}
+
+.login-form-container .form-group{
+    margin-bottom: 16px;
+}
+
+.product image{
+   align-content: center;
+}
